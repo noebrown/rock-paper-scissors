@@ -1,0 +1,2 @@
+@thirdweb-dev/=node_modules/@thirdweb-dev/
+forge-std/=lib/forge-std/src/
